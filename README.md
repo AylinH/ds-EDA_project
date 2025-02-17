@@ -1,7 +1,22 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# ds-project-template
+# EDA (Exploratory Data Analysis) Project
 
-Template for creating ds simple projects
+This project used the data of house sales in King County, USA, in May 2014 to May 2015.
+
+The client has 5 kids. He would like to buy a house in a nice neighborhood, but cannot spend much money.
+
+To asses which is the best neighborhood for him to buy a house as well as the best season and optimal number of bedrooms, the database was examined, which contained 21597 houses.
+
+## Steps of the project
+
+In this project, I took the following steps:
+
+1. Understanding and exploring the data
+2. Cleaning the data
+3. Testing the hypotheses
+4. Visualizing the results
+5. Presenting the findings to the steakholder
+
 
 ## Requirements
 
